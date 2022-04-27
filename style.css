@@ -39,7 +39,7 @@ body{
     display: grid;
     grid-template-columns: 1fr 4fr;
     grid-template-rows: 0.8fr 4fr;
-    height: 60vh;
+    
 }
 .header{
     grid-column: 2/3;
